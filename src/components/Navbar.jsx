@@ -43,8 +43,7 @@ const Navbar = () => {
           {/* Brand */}
           <Link to="/" className="flex items-center space-x-3 group">
             <div className="flex items-center space-x-2">
-              <img src="/logo-umsida.png" alt="Logo UMSIDA" className="w-10 h-10 object-contain bg-white rounded-md" />
-              <img src="/logo-kkn.png" alt="Logo KKN" className="w-15 h-20 object-contain" />
+              <img src="/logo-kkn.png" alt="Logo KKN" className="w-15 h-20 object-contain rounded-md" />
             </div>
             <div>
               <span className="text-xl font-bold text-primary-green leading-tight block">
