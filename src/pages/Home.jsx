@@ -44,7 +44,7 @@ const Home = () => {
         <div
           className="absolute inset-0 bg-cover bg-center"
           style={{
-            backgroundImage: "url('https://images.unsplash.com/photo-1596700750796-015dc3dfa536?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80')",
+            backgroundImage: "url('/watesari-balaidesa.webp')",
             filter: 'brightness(0.35)',
           }}
         />
